@@ -23,6 +23,17 @@
             ]
         },
         {
+            "name": "PSTAlertController",
+            "version": "~> 1.1",
+            "votes": [
+                {
+                    "type": "up",
+                    "voter": "@pbendersky",
+                    "comment": "Use this for iOS 7 or better."
+                }
+            ]
+        },
+        {
             "name": "EGOTableViewPullRefresh",
             "version": "~> 0.1",
             "votes": [
