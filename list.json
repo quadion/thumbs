@@ -8,6 +8,16 @@
                     "type": "up",
                     "voter": "@pbendersky",
                     "comment": "Excellent library!"
+                },
+                {
+                    "type": "up",
+                    "voter": "@user1",
+                    "comment": "Use it!"
+                },
+                {
+                    "type": "down",
+                    "voter": "@user2",
+                    "comment": "Don't like it."
                 }
             ]
         },
