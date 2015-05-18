@@ -65,6 +65,17 @@
                     "comment": "Although it was really easy to use this library is deprecated in favor of SnapKit."
                 }
             ]
+        },
+        {
+            "name": "MBProgressHUD",
+            "version": "~> 0.8",
+            "votes": [
+                {
+                    "type": "up",
+                    "voter": "@jlanatta",
+                    "comment": "Easy to use but not big deal. If you have some time check other similar libraries first."
+                }
+            ]
         }
     ]
 }
