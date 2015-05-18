@@ -43,6 +43,17 @@
                     "comment": "Discontinued. Use native implementation in UITableViewController."
                 }
             ]
+        },
+        {
+            "name": "MGSplitViewController",
+            "version": "~> 1.0",
+            "votes": [
+                {
+                    "type": "down",
+                    "voter": "@jlanatta",
+                    "comment": "Although it has a lot of stars on GH, I choosed to stop using this library and go for native container views."
+                }
+            ]
         }
     ]
 }
