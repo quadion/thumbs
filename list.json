@@ -54,6 +54,17 @@
                     "comment": "Although it has a lot of stars on GH, I choosed to stop using this library and go for native container views."
                 }
             ]
+        },
+        {
+            "name": "Masonry",
+            "version": "~> 0.6",
+            "votes": [
+                {
+                    "type": "down",
+                    "voter": "@jlanatta",
+                    "comment": "Although it was really easy to use this library is deprecated in favor of SnapKit."
+                }
+            ]
         }
     ]
 }
