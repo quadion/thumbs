@@ -13,16 +13,6 @@
                     "type": "up",
                     "voter": "@jlanatta",
                     "comment": "Easy to use, ultra coplete & excelent support. Thumbs UP!"
-                },
-                {
-                    "type": "up",
-                    "voter": "@user1",
-                    "comment": "Use it!"
-                },
-                {
-                    "type": "down",
-                    "voter": "@user2",
-                    "comment": "Don't like it."
                 }
             ]
         },
@@ -55,7 +45,7 @@
                 {
                     "type": "down",
                     "voter": "@pbendersky",
-                    "comment": "Discontinued. Use native implementation in UITableView"
+                    "comment": "Discontinued. Use native implementation in UITableViewController."
                 }
             ]
         }
