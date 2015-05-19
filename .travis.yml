@@ -16,7 +16,7 @@ before_install:
 
 
 install:
-  - cd tests; sudo bundle install --without=documentation
+  - cd $TRAVIS_BUILD_DIR/tests; sudo bundle install --without=documentation
 
 script:
-  - cd tests; bundle exec rake
+  - cd $TRAVIS_BUILD_DIR/tests; bundle exec rake
