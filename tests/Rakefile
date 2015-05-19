@@ -1,0 +1,6 @@
+desc 'Runs all the tests'
+task :tests do
+	Dir.glob('./*_test.rb').each { |file| require file}
+end
+
+task :default => :tests
