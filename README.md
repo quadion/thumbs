@@ -1,4 +1,4 @@
-![Quadion Logo](https://raw.githubusercontent.com/quadion/shared-assets/master/images/quadion.svg)
+![Quadion Logo](https://quadion.github.io/shared-assets/images/quadion.svg)
 
 # Quadion's Cocoapods Thumbs
 
