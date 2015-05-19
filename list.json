@@ -8,6 +8,11 @@
                     "type": "up",
                     "voter": "@pbendersky",
                     "comment": "Excellent library!"
+                },
+                {
+                    "type": "up",
+                    "voter": "@jlanatta",
+                    "comment": "Easy to use, ultra coplete & excelent support. Thumbs UP!"
                 }
             ]
         },
@@ -41,6 +46,39 @@
                     "type": "down",
                     "voter": "@pbendersky",
                     "comment": "Discontinued. Use native implementation in UITableViewController."
+                }
+            ]
+        },
+        {
+            "name": "MGSplitViewController",
+            "version": "~> 1.0",
+            "votes": [
+                {
+                    "type": "down",
+                    "voter": "@jlanatta",
+                    "comment": "Although it has a lot of stars on GH, I choosed to stop using this library and go for native container views."
+                }
+            ]
+        },
+        {
+            "name": "Masonry",
+            "version": "~> 0.6",
+            "votes": [
+                {
+                    "type": "down",
+                    "voter": "@jlanatta",
+                    "comment": "Although it was really easy to use this library is deprecated in favor of SnapKit."
+                }
+            ]
+        },
+        {
+            "name": "MBProgressHUD",
+            "version": "~> 0.8",
+            "votes": [
+                {
+                    "type": "up",
+                    "voter": "@jlanatta",
+                    "comment": "Easy to use but not big deal. If you have some time check other similar libraries first."
                 }
             ]
         }
