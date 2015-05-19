@@ -16,7 +16,7 @@ before_install:
 
 
 install:
-  - sudo bundle install --without=documentation
+  - cd tests; sudo bundle install --without=documentation
 
 script:
   - cd tests; bundle exec rake
